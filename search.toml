@@ -1,0 +1,33 @@
+[input]
+base_directory = "output"
+html_selector = "main"
+
+[[input.files]]
+path = "my-blue-blog.html"
+url = "/my-blue-blog.html"
+title = "My Blue Blog"
+
+[[input.files]]
+path = "my-first-comment.html"
+url = "/my-first-comment.html"
+title = "My First Comment"
+
+[[input.files]]
+path = "my-first-review.html"
+url = "/my-first-review.html"
+title = "My First Review"
+
+[[input.files]]
+path = "my-green-blog.html"
+url = "/my-green-blog.html"
+title = "My Green Blog"
+
+[[input.files]]
+path = "my-red-blog.html"
+url = "/my-red-blog.html"
+title = "My Red Blog"
+
+[[input.files]]
+path = "my-yellow-blog.html"
+url = "/my-yellow-blog.html"
+title = "My Yellow Blog"
